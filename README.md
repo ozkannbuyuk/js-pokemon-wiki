@@ -2,6 +2,10 @@
    JavaScript - Pokemon Wiki
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/js-pokemon-wiki/assets/111967202/e92c62fb-8134-43c0-876c-9582dd391b9e" width="700" />
 </p>
